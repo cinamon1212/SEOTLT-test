@@ -1,4 +1,3 @@
-import { postList } from '@/constants'
 import { PostType } from '@/types'
 import { createContext, PropsWithChildren, useState } from 'react'
 
@@ -8,7 +7,7 @@ type InitialType = {
 }
 
 const initialValue: InitialType = {
-  postList: postList,
+  postList: [],
   setPostList: () => {},
 }
 

@@ -1,1 +1,1 @@
-# Seotlt test app
+# Ссылка на приложение - https://seotlt-test.vercel.app/
